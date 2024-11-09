@@ -1,1 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talgatulyzh)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talgatulyzh&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talgatulyzh&layout=compact)
